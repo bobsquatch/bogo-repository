@@ -38,5 +38,5 @@ HEER HAS TEH GUD CODEZ:
         so sweet
         and so cold.
 
-WHAT U MEAN IT NO COMPILE?
+WAT U MEAN IT NO COMPILE?
 
