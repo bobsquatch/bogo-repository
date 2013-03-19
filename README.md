@@ -20,6 +20,23 @@ Or golf?
 Or maybe a movie or a play?  
 That sounds nice.  
 
+U WANTZ I SHUD GIV CODEZ?
+============================
 
+HEER HAS TEH GUD CODEZ:
 
+    while (playing with markdown):
+        write stupid crap
+        keep going
+        because there's no stopping
+        if (stopping):
+            # dead code
+        you thought there was a stopping condition
+        but no, there are no more stopping conditions
+        anymore
+        they were delicious
+        so sweet
+        and so cold.
+
+WHAT U MEAN IT NO COMPILE?
 
